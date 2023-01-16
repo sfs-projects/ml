@@ -23,19 +23,10 @@ The project includes:
 During our investigation, the results of our analysis indicate that there are some features of rocket launches  have a correlation with the success or failure launches. We conclude that the KNN algorithm was the best choice for this problem.
 
 ## Dependencies
-This project requires the following libraries:
-
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- plotly
-- dash
-- sklearn
-- folium
+This project requires the following libraries: pandas, numpy, matplotlib, seaborn, plotly, dash, sklearn, folium.
 
 ## Limitations
-The dataset used in this project was relatively small with only 93 observations and 83 features. This may limit the generalizability of our findings and increase the risk of overfitting the model. To mitigate the effects of this small dataset, we used Cross-Validation technique.
+The dataset used in this project was relatively small with only 93 observations and 83 features. This may limit the generalizability of our findings and increase the risk of overfitting the model. To mitigate this, we used the Cross-Validation technique.
 
 ## Conclusion
 The results of our analysis indicate that there are some features of rocket launches that have a correlation with the success or failure of launches. The KNN algorithm was found to be the best choice for this problem. However, more data would be beneficial in increasing the robustness and reliability of the results.
