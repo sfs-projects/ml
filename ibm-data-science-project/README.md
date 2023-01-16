@@ -5,11 +5,11 @@ The main goal of this project is to predict whether the Falcon 9 first stage wil
 ## Project Description:
 The methodolgy followed will include:
 
-## Data Dollection
-Data Wrangling and Preprocessing
-Exploratory Data Analysis
-Data Visualization
-Machine Learning Prediction
+- Data Collection
+- Data Wrangling and Preprocessing
+- Exploratory Data Analysis
+- Data Visualization
+- Machine Learning Prediction
 
 ## Table Of Contents:
 The project includes:
