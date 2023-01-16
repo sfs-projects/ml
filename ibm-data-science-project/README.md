@@ -17,6 +17,7 @@ The project includes:
 - Plotly Dash app: anexes/plotly_dash_spacex_app.py
 - Folium Map: anexes/folium_map_jupyter.ipynb
 - Powerpoint Presentation: presentation/ibm_data_science_presentation.pptx
+- PDF Presentation: presentation/ibm_data_science_presentation.pdf
 
 ## Conclusion
 During our investigation, the results of our analysis indicate that there are some features of rocket launches  have a correlation with the success or failure launches. We conclude that the KNN algorithm was the best choice for this problem.
@@ -28,7 +29,7 @@ This project requires the following libraries:
 - numpy
 - matplotlib
 - seaborn
--  plotly
+- plotly
 - dash
 - sklearn
 - folium
