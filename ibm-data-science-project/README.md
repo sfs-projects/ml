@@ -39,23 +39,23 @@ Unsuccessful landing example:
 
 4. Exploratory Data Analysis with SQL
 We use SQL to query the database and answer several questions about the data such as:
- The names of the unique launch sites in the space mission
- The total payload mass carried by boosters launched by NASA (CRS)
- The average payload mass carried by booster version F9 v1.1
- Some of the SQL statements or functions used include SELECT, DISTINCT, AS, FROM, WHERE, LIMIT, LIKE, SUM(), AVG(), MIN(), BETWEEN, COUNT(), and YEAR().
+.The names of the unique launch sites in the space mission
+.The total payload mass carried by boosters launched by NASA (CRS)
+.The average payload mass carried by booster version F9 v1.1
+.Some of the SQL statements or functions used include SELECT, DISTINCT, AS, FROM, WHERE, LIMIT, LIKE, SUM(), AVG(), MIN(), BETWEEN, COUNT(), and YEAR().
 
 5. Exploratory Data Analysis with Data Visualization and Plotly Dash
 We use Python's Matplotlib and Seaborn libraries to visualize the relationships that exist within the dataset.
 The "One-Hot Encoding" technique is used to create binary category variables as part of the Feature Engineering
 Visualizing the success rate in each orbit:
- Class 1 = Success
- Class 0 = Failure
+.Class 1 = Success
+.Class 0 = Failure
 
 6. Interactive Map Analytics with Folium
- In this notebook we perform the following:
- Mark all launch sites on a map
- Mark the success/failed launches for each site on the map
- Calculate the distances between a launch site and the coastlines or other important landmarks
+.In this notebook we perform the following:
+.Mark all launch sites on a map
+.Mark the success/failed launches for each site on the map
+.Calculate the distances between a launch site and the coastlines or other important landmarks
 
 ## Conclusion
 During our investigation, the results of our analysis indicate that there are some features of rocket launches  have a correlation with the success or failure launches. We conclude that the KNN algorithm was the best choice for this problem.
