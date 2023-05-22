@@ -27,7 +27,7 @@ from sklearn.metrics import silhouette_score, davies_bouldin_score
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 import pickle
-```python
+```
 
 ## Data Analysis
 
