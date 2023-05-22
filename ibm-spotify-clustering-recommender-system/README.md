@@ -43,17 +43,20 @@ The Principal Component Analysis (PCA) was used to reduce the dimensionality of 
 
 ### K-Means
 Identified 7 optimal clusters via the Elbow method, Silhouette score, and Davies Bouldin index.
+
 ![K-Means Optimal Clusters](images/kmeans_optimal_clusters.png)
 ![K-Means](images/kmeans_radar.png)
 ![K-Means Clusters](images/kmeans_clusters_features.png)
 
 ### Agglomerative Clustering
 Similar to K-Means, 7 clusters were chosen based on a dendrogram.
+
 ![Agglomerative Dendrogram](images/agg_dendrogram.png)
 ![Agglomerative Clustering](images/agg_radar.png)
 
 ### Mean Shift
 This non-parametric clustering algorithm grouped the songs into 8 clusters.
+
 ![Mean Shift](images/ms_radar.png)
 
 ## Recommendation System
