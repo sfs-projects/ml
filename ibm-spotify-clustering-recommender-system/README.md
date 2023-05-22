@@ -1,6 +1,6 @@
-# Spotify Music Clustering
+# Spotify Clustering and Recommender System
 
-This project aims to create a recommendation system for Spotify songs by using various clustering techniques.
+This project explores unsupervised learning techniques to cluster and recommend songs from the Spotify API.
 
 ## Table of Contents
 1. [Overview](#overview)
