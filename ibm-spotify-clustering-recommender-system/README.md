@@ -1,40 +1,65 @@
-## Spotify Clustering and Recommender System
-This project explores unsupervised learning techniques to cluster and recommend songs from the Spotify API.
+# Spotify Music Clustering
 
-The goal of this project is to develop a song recommender system using unsupervised learning techniques. The Spotify API is used to collect data on songs, and this data is then preprocessed and clustered using K-Means, Agglomerative Clustering and Mean Shift.
+This project aims to create a recommendation system for Spotify songs by using various clustering techniques.
 
-The resulting clusters from the first two models are then used to create a song recommender using Euclidian distance and cosine similarity.
+## Table of Contents
+1. [Overview](#overview)
+2. [Dependencies](#dependencies)
+3. [Data Analysis](#data-analysis)
+4. [Clustering Models](#clustering-models)
+    - [K-Means](#k-means)
+    - [Agglomerative Clustering](#agglomerative-clustering)
+    - [Mean Shift](#mean-shift)
+5. [Recommendation System](#recommendation-system)
+6. [Future Steps](#future-steps)
 
-### Data
-The data used in this project was collected from the Spotify API. The data includes information on songs such as their name, artist, and audio features such as danceability and energy.
+## Overview
+The project explores unsupervised learning techniques for clustering songs based on their audio features and uses the clusters to recommend songs. Techniques used include K-Means, Agglomerative Clustering and Mean Shift.
 
-### Models
-- K-Means
-The number of clusters is determined using the Elbow method, Silhouette score and David Bouldin index. 
-- Agglomerative Clustering 
-The number of clusters is determined using the hierarchical dendrogram.
-- Mean Shift
-The number of clusters is determined by using the estimate_bandwidth function.
+## Dependencies
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.cluster import KMeans, MeanShift, AgglomerativeClustering
+from sklearn.metrics import silhouette_score, davies_bouldin_score
+from sklearn.decomposition import PCA
+from sklearn.preprocessing import StandardScaler
+import pickle
 
-### Report
-A report on this project can be found in the report folder. This report includes information on the data, models, and results of the project.
+## Data Analysis
 
-### Files
-#### The following files are included in this project:
+Data analysis was conducted using a heatmap to visualize the correlation between different audio features of songs.
 
-- csvs: folder containing the csv files used in the project
-- models: folder containing the trained machine learning models
-- report: folder containing the project report
-- retained_features.json: file containing the audio features retained for clustering
-- spotify_api.ipynb: Jupyter notebook used to collect data from the Spotify API
-- spotify_clustering.ipynb: Jupyter notebook used to preprocess and cluster the data
-- spotify_recommender.ipynb: Jupyter notebook used to create the song recommender
+![Correlation Heatmap](images/heatmap.png)
 
-### Instructions
-#### To run this project, follow these steps:
+The Principal Component Analysis (PCA) was used to reduce the dimensionality of the data and explain over 90% of the variance.
 
-- Clone the repository
-- Collect data from the Spotify API using the spotify_api.ipynb notebook
-- Preprocess and cluster the data using the spotify_clustering.ipynb notebook
-- Create a song recommender using the spotify_recommender.ipynb notebook
-Note that you will need a Spotify API client ID and secret key to collect data from the Spotify API.
+![PCA](images/pca.png)
+
+## Clustering Models
+
+### K-Means
+Identified 7 optimal clusters via the Elbow method, Silhouette score, and Davies Bouldin index.
+![K-Means Optimal Clusters](images/kmeans_optimal_clusters.png)
+![K-Means](images/kmeans_radar.png)
+![K-Means Clusters](images/kmeans_clusters_features.png)
+
+### Agglomerative Clustering
+Similar to K-Means, 7 clusters were chosen based on a dendrogram.
+![Agglomerative Dendrogram](images/agg_dendrogram.png)
+![Agglomerative Clustering](images/agg_radar.png)
+
+### Mean Shift
+This non-parametric clustering algorithm grouped the songs into 8 clusters.
+![Mean Shift](images/ms_radar.png)
+
+## Recommendation System
+A song recommender was created based on the clusters formed by the K-Means and Agglomerative Clustering models. The recommendation was based on Euclidean distance and cosine similarity.
+![Recommendation System](images/recommendations.png)
+
+## Future Steps
+- Expand song database.
+- Develop a web application for song recommendations.
+- Implement a function to automatically create Spotify playlists based on the clusters.
