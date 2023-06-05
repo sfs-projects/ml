@@ -18,7 +18,7 @@ The recommendation system uses various techniques, including bag-of-words simila
 Clone the repository to your local machine to get started.
 
 ```shell
-git clone https://github.com/your-username/movie-recommender-system
+git clone https://github.com/sfs-projects/ml/tree/main/ibm-kaggle--movie-recommender-system-9-methods
 ```
 
 ## Prerequisites
