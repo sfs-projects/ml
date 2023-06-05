@@ -123,7 +123,7 @@ This approach uses K-means clustering to create distinct user clusters based on 
 * **PCA Application on User Profile Feature Vectors:** 
 This method uses Principal Component Analysis (PCA) to identify the most significant axes in the feature space, helping to remove redundancy in the data and improve efficiency. We then apply K-means clustering on the transformed, lower-dimensional feature vectors.
 
-![PCA]((./images/pca.png))
+![PCA](./images/pca.png)
 
 * **Collaborative Filtering-based Recommender System using K Nearest Neighbor:** 
 This approach creates a matrix with users as rows, items as columns, and the user's ratings of the items as values. For each user, the system predicts ratings for unrated items based on the ratings of their nearest neighbors.
