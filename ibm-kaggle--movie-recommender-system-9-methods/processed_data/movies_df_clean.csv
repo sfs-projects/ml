@@ -1,0 +1,889 @@
+﻿movieId,title,genres,year,Action,Adventure,Animation,Children,Comedy,Crime,Documentary,Drama,Fantasy,Film-Noir,Horror,Musical,Mystery,Romance,Sci-Fi,Thriller,War,Western
+1,Toy Story,Adventure|Animation|Children|Comedy|Fantasy,1995,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+2,Jumanji,Adventure|Children|Fantasy,1995,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3,Grumpier Old Men,Comedy|Romance,1995,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+5,Father of the Bride Part II,Comedy,1995,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Heat,Action|Crime|Thriller,1995,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+7,Sabrina,Comedy|Romance,1995,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+10,GoldenEye,Action|Adventure|Thriller,1995,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+11,"American President, The",Comedy|Drama|Romance,1995,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+16,Casino,Crime|Drama,1995,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+17,Sense and Sensibility,Drama|Romance,1995,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+19,Ace Ventura: When Nature Calls,Comedy,1995,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,Get Shorty,Comedy|Crime|Thriller,1995,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+22,Copycat,Crime|Drama|Horror|Mystery|Thriller,1995,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,1,0,0
+24,Powder,Drama|Sci-Fi,1995,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+25,Leaving Las Vegas,Drama|Romance,1995,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+29,"City of Lost Children, The (Cité des enfants perdus, La)",Adventure|Drama|Fantasy|Mystery|Sci-Fi,1995,0,1,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0
+31,Dangerous Minds,Drama,1995,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+32,Twelve Monkeys (a.k.a. 12 Monkeys),Mystery|Sci-Fi|Thriller,1995,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+34,Babe,Children|Drama,1995,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+36,Dead Man Walking,Crime|Drama,1995,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+39,Clueless,Comedy|Romance,1995,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+44,Mortal Kombat,Action|Adventure|Fantasy,1995,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+45,To Die For,Comedy|Drama|Thriller,1995,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+47,Seven (a.k.a. Se7en),Mystery|Thriller,1995,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+48,Pocahontas,Animation|Children|Drama|Musical|Romance,1995,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+50,"Usual Suspects, The",Crime|Mystery|Thriller,1995,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+52,Mighty Aphrodite,Comedy|Drama|Romance,1995,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+58,"Postman, The (Postino, Il)",Comedy|Drama|Romance,1994,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+62,Mr. Holland's Opus,Drama,1995,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+70,From Dusk Till Dawn,Action|Comedy|Horror|Thriller,1996,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0
+95,Broken Arrow,Action|Adventure|Thriller,1996,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+104,Happy Gilmore,Comedy,1996,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+105,"Bridges of Madison County, The",Drama|Romance,1995,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+107,Muppet Treasure Island,Adventure|Children|Comedy|Musical,1996,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+110,Braveheart,Action|Drama|War,1995,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+111,Taxi Driver,Crime|Drama|Thriller,1976,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+112,Rumble in the Bronx (Hont faan kui),Action|Adventure|Comedy|Crime,1995,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+135,Down Periscope,Comedy,1996,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+141,"Birdcage, The",Comedy,1996,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+145,Bad Boys,Action|Comedy|Crime|Drama|Thriller,1995,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0
+150,Apollo 13,Adventure|Drama,1995,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+151,Rob Roy,Action|Drama|Romance|War,1995,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0
+153,Batman Forever,Action|Adventure|Comedy|Crime,1995,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+158,Casper,Adventure|Children,1995,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+160,Congo,Action|Adventure|Mystery|Sci-Fi,1995,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+161,Crimson Tide,Drama|Thriller|War,1995,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+163,Desperado,Action|Romance|Western,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+165,Die Hard: With a Vengeance,Action|Crime|Thriller,1995,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+168,First Knight,Action|Drama|Romance,1995,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+170,Hackers,Action|Adventure|Crime|Thriller,1995,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+172,Johnny Mnemonic,Action|Sci-Fi|Thriller,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+173,Judge Dredd,Action|Crime|Sci-Fi,1995,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+180,Mallrats,Comedy|Romance,1995,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+185,"Net, The",Action|Crime|Thriller,1995,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+186,Nine Months,Comedy|Romance,1995,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+193,Showgirls,Drama,1995,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+196,Species,Horror|Sci-Fi,1995,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+198,Strange Days,Action|Crime|Drama|Mystery|Sci-Fi|Thriller,1995,1,0,0,0,0,1,0,1,0,0,0,0,1,0,1,1,0,0
+204,Under Siege 2: Dark Territory,Action,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+208,Waterworld,Action|Adventure|Sci-Fi,1995,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+216,Billy Madison,Comedy,1995,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+223,Clerks,Comedy,1994,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+224,Don Juan DeMarco,Comedy|Drama|Romance,1995,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+225,Disclosure,Drama|Thriller,1994,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+231,Dumb & Dumber (Dumb and Dumber),Adventure|Comedy,1994,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+235,Ed Wood,Comedy|Drama,1994,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+236,French Kiss,Action|Comedy|Romance,1995,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+246,Hoop Dreams,Documentary,1994,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+247,Heavenly Creatures,Crime|Drama,1994,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+252,I.Q.,Comedy|Romance,1994,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+253,Interview with the Vampire: The Vampire Chronicles,Drama|Horror,1994,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+256,Junior,Comedy|Sci-Fi,1994,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+260,Star Wars: Episode IV - A New Hope,Action|Adventure|Sci-Fi,1977,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+261,Little Women,Drama,1994,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+265,Like Water for Chocolate (Como agua para chocolate),Drama|Fantasy|Romance,1992,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+266,Legends of the Fall,Drama|Romance|War|Western,1994,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1
+272,"Madness of King George, The",Comedy|Drama,1994,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+273,Mary Shelley's Frankenstein (Frankenstein),Drama|Horror|Sci-Fi,1994,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+277,Miracle on 34th Street,Drama,1994,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+282,Nell,Drama,1994,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+288,Natural Born Killers,Action|Crime|Thriller,1994,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+292,Outbreak,Action|Drama|Sci-Fi|Thriller,1995,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+293,Léon: The Professional (a.k.a. The Professional) (Léon),Action|Crime|Drama|Thriller,1994,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+296,Pulp Fiction,Comedy|Crime|Drama|Thriller,1994,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0
+300,Quiz Show,Drama,1994,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+303,"Quick and the Dead, The",Action|Thriller|Western,1995,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+306,Three Colors: Red (Trois couleurs: Rouge),Drama,1994,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+315,"Specialist, The",Action|Drama|Thriller,1994,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+316,Stargate,Action|Adventure|Sci-Fi,1994,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+317,"Santa Clause, The",Comedy|Drama|Fantasy,1994,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+318,"Shawshank Redemption, The",Crime|Drama,1994,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+319,Shallow Grave,Comedy|Drama|Thriller,1994,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+327,Tank Girl,Action|Comedy|Sci-Fi,1995,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+329,Star Trek: Generations,Adventure|Drama|Sci-Fi,1994,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+333,Tommy Boy,Comedy,1995,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+337,What's Eating Gilbert Grape,Drama,1993,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+339,While You Were Sleeping,Comedy|Romance,1995,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+342,Muriel's Wedding,Comedy,1994,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+344,Ace Ventura: Pet Detective,Comedy,1994,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+345,"Adventures of Priscilla, Queen of the Desert, The",Comedy|Drama,1994,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+349,Clear and Present Danger,Action|Crime|Drama|Thriller,1994,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+350,"Client, The",Drama|Mystery|Thriller,1994,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+353,"Crow, The",Action|Crime|Fantasy|Thriller,1994,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+355,"Flintstones, The",Children|Comedy|Fantasy,1994,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+356,Forrest Gump,Comedy|Drama|Romance|War,1994,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0
+357,Four Weddings and a Funeral,Comedy|Romance,1994,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+364,"Lion King, The",Adventure|Animation|Children|Drama|Musical,1994,0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+367,"Mask, The",Action|Comedy|Crime|Fantasy,1994,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+368,Maverick,Adventure|Comedy|Western,1994,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+370,Naked Gun 33 1/3: The Final Insult,Action|Comedy,1994,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,"River Wild, The",Action|Thriller,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+377,Speed,Action|Romance|Thriller,1994,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+380,True Lies,Action|Adventure|Comedy|Romance|Thriller,1994,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0
+383,Wyatt Earp,Western,1994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+410,Addams Family Values,Children|Comedy|Fantasy,1993,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+420,Beverly Hills Cop III,Action|Comedy|Crime|Thriller,1994,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+431,Carlito's Way,Crime|Drama,1993,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+432,City Slickers II: The Legend of Curly's Gold,Adventure|Comedy|Western,1994,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+434,Cliffhanger,Action|Adventure|Thriller,1993,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+435,Coneheads,Comedy|Sci-Fi,1993,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+440,Dave,Comedy|Romance,1993,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+441,Dazed and Confused,Comedy,1993,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+442,Demolition Man,Action|Adventure|Sci-Fi,1993,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+454,"Firm, The",Drama|Thriller,1993,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+455,Free Willy,Adventure|Children|Drama,1993,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+457,"Fugitive, The",Thriller,1993,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+466,Hot Shots! Part Deux,Action|Comedy|War,1993,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+468,"Englishman Who Went Up a Hill But Came Down a Mountain, The",Comedy|Romance,1995,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+471,"Hudsucker Proxy, The",Comedy,1994,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+474,In the Line of Fire,Action|Thriller,1993,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+475,In the Name of the Father,Drama,1993,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+480,Jurassic Park,Action|Adventure|Sci-Fi|Thriller,1993,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+485,Last Action Hero,Action|Adventure|Comedy|Fantasy,1993,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+494,Executive Decision,Action|Adventure|Thriller,1996,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+497,Much Ado About Nothing,Comedy|Romance,1993,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+500,Mrs. Doubtfire,Comedy|Drama,1993,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+508,Philadelphia,Drama,1993,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+509,"Piano, The",Drama|Romance,1993,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+515,"Remains of the Day, The",Drama|Romance,1993,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+520,Robin Hood: Men in Tights,Comedy,1993,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+527,Schindler's List,Drama|War,1993,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+529,Searching for Bobby Fischer,Drama,1993,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+531,"Secret Garden, The",Children|Drama,1993,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+539,Sleepless in Seattle,Comedy|Drama|Romance,1993,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+541,Blade Runner,Action|Sci-Fi|Thriller,1982,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+543,So I Married an Axe Murderer,Comedy|Romance|Thriller,1993,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0
+551,"Nightmare Before Christmas, The",Animation|Children|Fantasy|Musical,1993,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+552,"Three Musketeers, The",Action|Adventure|Comedy|Romance,1993,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+553,Tombstone,Action|Drama|Western,1993,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+555,True Romance,Crime|Thriller,1993,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+585,"Brady Bunch Movie, The",Comedy,1995,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+586,Home Alone,Children|Comedy,1990,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+587,Ghost,Comedy|Drama|Fantasy|Romance|Thriller,1990,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,1,0,0
+588,Aladdin,Adventure|Animation|Children|Comedy|Musical,1992,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+589,Terminator 2: Judgment Day,Action|Sci-Fi,1991,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+590,Dances with Wolves,Adventure|Drama|Western,1990,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+592,Batman,Action|Crime|Thriller,1989,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+593,"Silence of the Lambs, The",Crime|Horror|Thriller,1991,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+594,Snow White and the Seven Dwarfs,Animation|Children|Drama|Fantasy|Musical,1937,0,0,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+595,Beauty and the Beast,Animation|Children|Fantasy|Musical|Romance,1991,0,0,1,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0
+596,Pinocchio,Animation|Children|Fantasy|Musical,1940,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+597,Pretty Woman,Comedy|Romance,1990,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+608,Fargo,Comedy|Crime|Drama|Thriller,1996,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0
+628,Primal Fear,Crime|Drama|Mystery|Thriller,1996,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0
+647,Courage Under Fire,Action|Crime|Drama|War,1996,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+648,Mission: Impossible,Action|Adventure|Mystery|Thriller,1996,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+653,Dragonheart,Action|Adventure|Fantasy,1996,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+661,James and the Giant Peach,Adventure|Animation|Children|Fantasy|Musical,1996,0,1,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+671,Mystery Science Theater 3000: The Movie,Comedy|Sci-Fi,1996,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+673,Space Jam,Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi,1996,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+708,"Truth About Cats & Dogs, The",Comedy|Romance,1996,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+719,Multiplicity,Comedy,1996,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+720,Wallace & Gromit: The Best of Aardman Animation,Adventure|Animation|Comedy,1996,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+724,"Craft, The",Drama|Fantasy|Horror|Thriller,1996,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0
+733,"Rock, The",Action|Adventure|Thriller,1996,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+736,Twister,Action|Adventure|Romance|Thriller,1996,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+741,Ghost in the Shell (Kôkaku kidôtai),Animation|Sci-Fi,1995,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+743,Spy Hard,Comedy,1996,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+745,Wallace & Gromit: A Close Shave,Animation|Children|Comedy,1995,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Comedy|War,1964,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+762,Striptease,Comedy|Crime,1996,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+778,Trainspotting,Comedy|Crime|Drama,1996,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+780,Independence Day (a.k.a. ID4),Action|Adventure|Sci-Fi|Thriller,1996,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+783,"Hunchback of Notre Dame, The",Animation|Children|Drama|Musical|Romance,1996,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+784,"Cable Guy, The",Comedy|Thriller,1996,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+785,Kingpin,Comedy,1996,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+786,Eraser,Action|Drama|Thriller,1996,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+788,"Nutty Professor, The",Comedy|Fantasy|Romance|Sci-Fi,1996,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0
+799,"Frighteners, The",Comedy|Horror|Thriller,1996,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0
+800,Lone Star,Drama|Mystery|Western,1996,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+802,Phenomenon,Drama|Romance,1996,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+805,"Time to Kill, A",Drama|Thriller,1996,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+832,Ransom,Crime|Thriller,1996,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+838,Emma,Comedy|Drama|Romance,1996,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+849,Escape from L.A.,Action|Adventure|Sci-Fi|Thriller,1996,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+852,Tin Cup,Comedy|Drama|Romance,1996,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+858,"Godfather, The",Crime|Drama,1972,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+866,Bound,Crime|Drama|Romance|Thriller,1996,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0
+880,"Island of Dr. Moreau, The",Sci-Fi|Thriller,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+899,Singin' in the Rain,Comedy|Musical|Romance,1952,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+902,Breakfast at Tiffany's,Drama|Romance,1961,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+903,Vertigo,Drama|Mystery|Romance|Thriller,1958,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0
+904,Rear Window,Mystery|Thriller,1954,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+908,North by Northwest,Action|Adventure|Mystery|Romance|Thriller,1959,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+910,Some Like It Hot,Comedy|Crime,1959,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+912,Casablanca,Drama|Romance,1942,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+913,"Maltese Falcon, The",Film-Noir|Mystery,1941,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+914,My Fair Lady,Comedy|Drama|Musical|Romance,1964,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0
+919,"Wizard of Oz, The",Adventure|Children|Fantasy|Musical,1939,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+920,Gone with the Wind,Drama|Romance|War,1939,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0
+923,Citizen Kane,Drama|Mystery,1941,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+924,2001: A Space Odyssey,Adventure|Drama|Sci-Fi,1968,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+953,It's a Wonderful Life,Drama|Fantasy|Romance,1946,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+968,Night of the Living Dead,Horror|Sci-Fi|Thriller,1968,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0
+969,"African Queen, The",Adventure|Comedy|Romance|War,1951,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0
+996,Last Man Standing,Action|Crime|Drama|Thriller,1996,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+1020,Cool Runnings,Comedy,1993,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1022,Cinderella,Animation|Children|Fantasy|Musical|Romance,1950,0,0,1,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0
+1027,Robin Hood: Prince of Thieves,Adventure|Drama,1991,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1028,Mary Poppins,Children|Comedy|Fantasy|Musical,1964,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+1029,Dumbo,Animation|Children|Drama|Musical,1941,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+1032,Alice in Wonderland,Adventure|Animation|Children|Fantasy|Musical,1951,0,1,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+1035,"Sound of Music, The",Musical|Romance,1965,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+1036,Die Hard,Action|Crime|Thriller,1988,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+1037,"Lawnmower Man, The",Action|Horror|Sci-Fi|Thriller,1992,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0
+1042,That Thing You Do!,Comedy|Drama,1996,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1047,"Long Kiss Goodnight, The",Action|Drama|Thriller,1996,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+1049,"Ghost and the Darkness, The",Action|Adventure,1996,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1059,William Shakespeare's Romeo + Juliet,Drama|Romance,1996,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+1060,Swingers,Comedy|Drama,1996,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1061,Sleepers,Thriller,1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1073,Willy Wonka & the Chocolate Factory,Children|Comedy|Fantasy|Musical,1971,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+1077,Sleeper,Comedy|Sci-Fi,1973,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+1079,"Fish Called Wanda, A",Comedy|Crime,1988,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+1080,Monty Python's Life of Brian,Comedy,1979,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1084,Bonnie and Clyde,Crime|Drama,1967,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+1088,Dirty Dancing,Drama|Musical|Romance,1987,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+1089,Reservoir Dogs,Crime|Mystery|Thriller,1992,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+1090,Platoon,Drama|War,1986,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+1092,Basic Instinct,Crime|Mystery|Thriller,1992,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+1093,"Doors, The",Drama,1991,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1094,"Crying Game, The",Drama|Romance|Thriller,1992,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0
+1097,E.T. the Extra-Terrestrial,Children|Drama|Sci-Fi,1982,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+1101,Top Gun,Action|Romance,1986,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1104,"Streetcar Named Desire, A",Drama,1951,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1120,"People vs. Larry Flynt, The",Comedy|Drama,1996,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1127,"Abyss, The",Action|Adventure|Sci-Fi|Thriller,1989,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+1129,Escape from New York,Action|Adventure|Sci-Fi|Thriller,1981,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+1136,Monty Python and the Holy Grail,Adventure|Comedy|Fantasy,1975,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+1148,Wallace & Gromit: The Wrong Trousers,Animation|Children|Comedy|Crime,1993,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+1172,Cinema Paradiso (Nuovo cinema Paradiso),Drama,1989,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1175,Delicatessen,Comedy|Drama|Romance,1991,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+1183,"English Patient, The",Drama|Romance|War,1996,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0
+1186,"Sex, Lies, and Videotape",Drama,1989,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1188,Strictly Ballroom,Comedy|Romance,1992,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+1193,One Flew Over the Cuckoo's Nest,Drama,1975,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1196,Star Wars: Episode V - The Empire Strikes Back,Action|Adventure|Sci-Fi,1980,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1197,"Princess Bride, The",Action|Adventure|Comedy|Fantasy|Romance,1987,1,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),Action|Adventure,1981,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1199,Brazil,Fantasy|Sci-Fi,1985,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+1200,Aliens,Action|Adventure|Horror|Sci-Fi,1986,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+1201,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il)",Action|Adventure|Western,1966,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1203,12 Angry Men,Drama,1957,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1204,Lawrence of Arabia,Adventure|Drama|War,1962,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+1206,"Clockwork Orange, A",Crime|Drama|Sci-Fi|Thriller,1971,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0
+1207,To Kill a Mockingbird,Drama,1962,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1208,Apocalypse Now,Action|Drama|War,1979,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+1210,Star Wars: Episode VI - Return of the Jedi,Action|Adventure|Sci-Fi,1983,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1212,"Third Man, The",Film-Noir|Mystery|Thriller,1949,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+1213,Goodfellas,Crime|Drama,1990,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+1214,Alien,Horror|Sci-Fi,1979,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+1215,Army of Darkness,Action|Adventure|Comedy|Fantasy|Horror,1993,1,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0
+1217,Ran,Drama|War,1985,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+1219,Psycho,Crime|Horror,1960,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+1220,"Blues Brothers, The",Action|Comedy|Musical,1980,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+1221,"Godfather: Part II, The",Crime|Drama,1974,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+1222,Full Metal Jacket,Drama|War,1987,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+1223,"Grand Day Out with Wallace and Gromit, A",Adventure|Animation|Children|Comedy|Sci-Fi,1989,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+1225,Amadeus,Drama,1984,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1228,Raging Bull,Drama,1980,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1230,Annie Hall,Comedy|Romance,1977,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+1231,"Right Stuff, The",Drama,1983,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1233,"Boot, Das (Boat, The)",Action|Drama|War,1981,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+1234,"Sting, The",Comedy|Crime,1973,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+1235,Harold and Maude,Comedy|Drama|Romance,1971,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+1240,"Terminator, The",Action|Sci-Fi|Thriller,1984,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+1242,Glory,Drama|War,1989,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+1244,Manhattan,Comedy|Drama|Romance,1979,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+1246,Dead Poets Society,Drama,1989,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1247,"Graduate, The",Comedy|Drama|Romance,1967,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+1249,"Femme Nikita, La (Nikita)",Action|Crime|Romance|Thriller,1990,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0
+1250,"Bridge on the River Kwai, The",Adventure|Drama|War,1957,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+1252,Chinatown,Crime|Film-Noir|Mystery|Thriller,1974,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0
+1253,"Day the Earth Stood Still, The",Drama|Sci-Fi|Thriller,1951,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+1258,"Shining, The",Horror,1980,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1259,Stand by Me,Adventure|Drama,1986,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1261,Evil Dead II (Dead by Dawn),Action|Comedy|Fantasy|Horror,1987,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0
+1262,"Great Escape, The",Action|Adventure|Drama|War,1963,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+1263,"Deer Hunter, The",Drama|War,1978,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+1265,Groundhog Day,Comedy|Fantasy|Romance,1993,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+1266,Unforgiven,Drama|Western,1992,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+1267,"Manchurian Candidate, The",Crime|Thriller|War,1962,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+1269,Arsenic and Old Lace,Comedy|Mystery|Thriller,1944,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+1270,Back to the Future,Adventure|Comedy|Sci-Fi,1985,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+1271,Fried Green Tomatoes,Comedy|Crime|Drama,1991,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+1272,Patton,Drama|War,1970,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+1274,Akira,Action|Adventure|Animation|Sci-Fi,1988,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1275,Highlander,Action|Adventure|Fantasy,1986,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1276,Cool Hand Luke,Drama,1967,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1278,Young Frankenstein,Comedy|Fantasy,1974,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+1282,Fantasia,Animation|Children|Fantasy|Musical,1940,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+1283,High Noon,Drama|Western,1952,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+1285,Heathers,Comedy,1989,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1287,Ben-Hur,Action|Adventure|Drama,1959,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1288,This Is Spinal Tap,Comedy,1984,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1291,Indiana Jones and the Last Crusade,Action|Adventure,1989,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1293,Gandhi,Drama,1982,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1296,"Room with a View, A",Drama|Romance,1986,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+1298,Pink Floyd: The Wall,Drama|Musical,1982,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+1302,Field of Dreams,Children|Drama|Fantasy,1989,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+1304,Butch Cassidy and the Sundance Kid,Action|Western,1969,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1307,When Harry Met Sally...,Comedy|Romance,1989,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+1320,Alien³ (a.k.a. Alien 3),Action|Horror|Sci-Fi|Thriller,1992,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0
+1321,"American Werewolf in London, An",Comedy|Horror|Thriller,1981,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0
+1333,"Birds, The",Horror|Thriller,1963,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+1339,Dracula (Bram Stoker's Dracula),Fantasy|Horror|Romance|Thriller,1992,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0
+1343,Cape Fear,Thriller,1991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1345,Carrie,Drama|Fantasy|Horror|Thriller,1976,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0
+1347,"Nightmare on Elm Street, A",Horror|Thriller,1984,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+1356,Star Trek: First Contact,Action|Adventure|Sci-Fi|Thriller,1996,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+1357,Shine,Drama|Romance,1996,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+1358,Sling Blade,Drama,1996,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1367,101 Dalmatians,Adventure|Children|Comedy,1996,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1370,Die Hard 2,Action|Adventure|Thriller,1990,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1371,Star Trek: The Motion Picture,Adventure|Sci-Fi,1979,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1372,Star Trek VI: The Undiscovered Country,Action|Mystery|Sci-Fi,1991,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+1373,Star Trek V: The Final Frontier,Action|Sci-Fi,1989,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1374,Star Trek II: The Wrath of Khan,Action|Adventure|Sci-Fi|Thriller,1982,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+1375,Star Trek III: The Search for Spock,Action|Adventure|Sci-Fi,1984,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1376,Star Trek IV: The Voyage Home,Adventure|Comedy|Sci-Fi,1986,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+1377,Batman Returns,Action|Crime,1992,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1378,Young Guns,Action|Comedy|Western,1988,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+1380,Grease,Comedy|Musical|Romance,1978,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+1385,Under Siege,Action|Drama|Thriller,1992,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+1387,Jaws,Action|Horror,1975,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1391,Mars Attacks!,Action|Comedy|Sci-Fi,1996,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+1393,Jerry Maguire,Drama|Romance,1996,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+1394,Raising Arizona,Comedy,1987,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1396,Sneakers,Action|Comedy|Crime|Drama|Sci-Fi,1992,1,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0
+1405,Beavis and Butt-Head Do America,Adventure|Animation|Comedy|Crime,1996,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+1407,Scream,Comedy|Horror|Mystery|Thriller,1996,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0
+1408,"Last of the Mohicans, The",Action|Romance|War|Western,1992,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+1411,Hamlet,Crime|Drama|Romance,1996,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0
+1416,Evita,Drama|Musical,1996,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+1438,Dante's Peak,Action|Thriller,1997,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1466,Donnie Brasco,Crime|Drama,1997,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+1476,Private Parts,Comedy|Drama,1997,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1479,"Saint, The",Action|Romance|Sci-Fi|Thriller,1997,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0
+1485,Liar Liar,Comedy,1997,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1499,Anaconda,Action|Adventure|Thriller,1997,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1500,Grosse Pointe Blank,Comedy|Crime|Romance,1997,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+1513,Romy and Michele's High School Reunion,Comedy,1997,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1517,Austin Powers: International Man of Mystery,Action|Adventure|Comedy,1997,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1527,"Fifth Element, The",Action|Adventure|Comedy|Sci-Fi,1997,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+1544,"Lost World: Jurassic Park, The",Action|Adventure|Sci-Fi|Thriller,1997,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+1552,Con Air,Action|Adventure|Thriller,1997,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1556,Speed 2: Cruise Control,Action|Romance|Thriller,1997,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+1562,Batman & Robin,Action|Adventure|Fantasy|Thriller,1997,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+1569,My Best Friend's Wedding,Comedy|Romance,1997,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+1573,Face/Off,Action|Crime|Drama|Thriller,1997,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+1580,Men in Black (a.k.a. MIB),Action|Comedy|Sci-Fi,1997,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+1584,Contact,Drama|Sci-Fi,1997,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+1586,G.I. Jane,Action|Drama,1997,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1587,Conan the Barbarian,Action|Adventure|Fantasy,1982,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1589,Cop Land,Action|Crime|Drama|Thriller,1997,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+1590,Event Horizon,Horror|Sci-Fi|Thriller,1997,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0
+1591,Spawn,Action|Adventure|Sci-Fi|Thriller,1997,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+1597,Conspiracy Theory,Drama|Mystery|Romance|Thriller,1997,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0
+1608,Air Force One,Action|Thriller,1997,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1610,"Hunt for Red October, The",Action|Adventure|Thriller,1990,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1617,L.A. Confidential,Crime|Film-Noir|Mystery|Thriller,1997,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0
+1620,Kiss the Girls,Crime|Drama|Mystery|Thriller,1997,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0
+1625,"Game, The",Drama|Mystery|Thriller,1997,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+1639,Chasing Amy,Comedy|Drama|Romance,1997,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+1641,"Full Monty, The",Comedy|Drama,1997,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1644,I Know What You Did Last Summer,Horror|Mystery|Thriller,1997,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0
+1645,"Devil's Advocate, The",Drama|Mystery|Thriller,1997,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+1653,Gattaca,Drama|Sci-Fi|Thriller,1997,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+1663,Stripes,Comedy|War,1981,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1673,Boogie Nights,Drama,1997,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1674,Witness,Drama|Romance|Thriller,1985,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0
+1676,Starship Troopers,Action|Sci-Fi,1997,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1680,Sliding Doors,Drama|Romance,1998,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+1682,"Truman Show, The",Comedy|Drama|Sci-Fi,1998,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0
+1687,"Jackal, The",Action|Thriller,1997,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1690,Alien: Resurrection,Action|Horror|Sci-Fi,1997,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+1704,Good Will Hunting,Drama|Romance,1997,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+1717,Scream 2,Comedy|Horror|Mystery|Thriller,1997,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0
+1721,Titanic,Drama|Romance,1997,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+1722,Tomorrow Never Dies,Action|Adventure|Thriller,1997,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1729,Jackie Brown,Crime|Drama|Thriller,1997,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+1732,"Big Lebowski, The",Comedy|Crime,1998,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+1747,Wag the Dog,Comedy,1997,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1748,Dark City,Adventure|Film-Noir|Sci-Fi|Thriller,1998,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0
+1777,"Wedding Singer, The",Comedy|Romance,1998,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+1784,As Good as It Gets,Comedy|Drama|Romance,1997,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+1792,U.S. Marshals,Action|Crime|Thriller,1998,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+1801,"Man in the Iron Mask, The",Action|Adventure|Drama,1998,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1805,Wild Things,Crime|Drama|Mystery|Thriller,1998,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0
+1831,Lost in Space,Action|Adventure|Sci-Fi,1998,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1876,Deep Impact,Drama|Sci-Fi|Thriller,1998,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+1882,Godzilla,Action|Sci-Fi|Thriller,1998,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+1884,Fear and Loathing in Las Vegas,Adventure|Comedy|Drama,1998,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1907,Mulan,Adventure|Animation|Children|Comedy|Drama|Musical|Romance,1998,0,1,1,1,1,0,0,1,0,0,0,1,0,1,0,0,0,0
+1909,"X-Files: Fight the Future, The",Action|Crime|Mystery|Sci-Fi|Thriller,1998,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0
+1912,Out of Sight,Comedy|Crime|Drama|Romance|Thriller,1998,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0
+1917,Armageddon,Action|Romance|Sci-Fi|Thriller,1998,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0
+1918,Lethal Weapon 4,Action|Comedy|Crime|Thriller,1998,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+1921,Pi,Drama|Sci-Fi|Thriller,1998,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+1923,There's Something About Mary,Comedy|Romance,1998,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+1945,On the Waterfront,Crime|Drama,1954,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+1947,West Side Story,Drama|Musical|Romance,1961,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+1952,Midnight Cowboy,Drama,1969,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1953,"French Connection, The",Action|Crime|Thriller,1971,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+1954,Rocky,Drama,1976,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1957,Chariots of Fire,Drama,1981,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1960,"Last Emperor, The",Drama,1987,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1961,Rain Man,Drama,1988,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1962,Driving Miss Daisy,Drama,1989,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1967,Labyrinth,Adventure|Fantasy|Musical,1986,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+1968,"Breakfast Club, The",Comedy|Drama,1985,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1982,Halloween,Horror,1978,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1994,Poltergeist,Horror|Thriller,1982,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+1997,"Exorcist, The",Horror|Mystery,1973,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+2000,Lethal Weapon,Action|Comedy|Crime|Drama,1987,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+2001,Lethal Weapon 2,Action|Comedy|Crime|Drama,1989,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+2002,Lethal Weapon 3,Action|Comedy|Crime|Drama,1992,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+2003,Gremlins,Comedy|Horror,1984,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+2005,"Goonies, The",Action|Adventure|Children|Comedy|Fantasy,1985,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+2006,"Mask of Zorro, The",Action|Comedy|Romance,1998,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+2011,Back to the Future Part II,Adventure|Comedy|Sci-Fi,1989,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+2012,Back to the Future Part III,Adventure|Comedy|Sci-Fi|Western,1990,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1
+2013,"Poseidon Adventure, The",Action|Adventure|Drama,1972,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2018,Bambi,Animation|Children|Drama,1942,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2019,Seven Samurai (Shichinin no samurai),Action|Adventure|Drama,1954,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2020,Dangerous Liaisons,Drama|Romance,1988,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+2021,Dune,Adventure|Sci-Fi,1984,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2023,"Godfather: Part III, The",Crime|Drama|Mystery|Thriller,1990,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0
+2028,Saving Private Ryan,Action|Drama|War,1998,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+2054,"Honey, I Shrunk the Kids",Adventure|Children|Comedy|Fantasy|Sci-Fi,1989,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+2058,"Negotiator, The",Action|Crime|Drama|Mystery|Thriller,1998,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0
+2064,Roger & Me,Documentary,1989,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2067,Doctor Zhivago,Drama|Romance|War,1965,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0
+2076,Blue Velvet,Drama|Mystery|Thriller,1986,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+2078,"Jungle Book, The",Animation|Children|Comedy|Musical,1967,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+2080,Lady and the Tramp,Animation|Children|Comedy|Romance,1955,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+2081,"Little Mermaid, The",Animation|Children|Comedy|Musical|Romance,1989,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+2085,101 Dalmatians (One Hundred and One Dalmatians),Adventure|Animation|Children,1961,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2087,Peter Pan,Animation|Children|Fantasy|Musical,1953,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2094,"Rocketeer, The",Action|Adventure|Sci-Fi,1991,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2096,Sleeping Beauty,Animation|Children|Musical,1959,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2100,Splash,Comedy|Fantasy|Romance,1984,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+2105,Tron,Action|Adventure|Sci-Fi,1982,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2108,L.A. Story,Comedy|Romance,1991,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+2109,"Jerk, The",Comedy,1979,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2115,Indiana Jones and the Temple of Doom,Action|Adventure|Fantasy,1984,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2124,"Addams Family, The",Children|Comedy|Fantasy,1991,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+2133,Adventures in Babysitting,Adventure|Comedy,1987,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2140,"Dark Crystal, The",Adventure|Fantasy,1982,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2144,Sixteen Candles,Comedy|Romance,1984,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+2145,Pretty in Pink,Comedy|Drama|Romance,1986,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+2150,"Gods Must Be Crazy, The",Adventure|Comedy,1980,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2160,Rosemary's Baby,Drama|Horror|Thriller,1968,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0
+2161,"NeverEnding Story, The",Adventure|Children|Fantasy,1984,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2167,Blade,Action|Horror|Thriller,1998,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+2174,Beetlejuice,Comedy|Fantasy,1988,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+2193,Willow,Action|Adventure|Fantasy,1988,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2194,"Untouchables, The",Action|Crime|Drama,1987,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+2231,Rounders,Drama,1998,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2232,Cube,Horror|Mystery|Sci-Fi|Thriller,1997,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0
+2243,Broadcast News,Comedy|Drama|Romance,1987,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+2248,Say Anything...,Comedy|Drama|Romance,1989,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+2268,"Few Good Men, A",Crime|Drama|Thriller,1992,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+2273,Rush Hour,Action|Comedy|Crime|Thriller,1998,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+2278,Ronin,Action|Crime|Thriller,1998,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+2288,"Thing, The",Action|Horror|Sci-Fi|Thriller,1982,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0
+2289,"Player, The",Comedy|Crime|Drama,1992,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+2291,Edward Scissorhands,Drama|Fantasy|Romance,1990,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+2294,Antz,Adventure|Animation|Children|Comedy|Fantasy,1998,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+2300,"Producers, The",Comedy,1968,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2302,My Cousin Vinny,Comedy,1992,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2313,"Elephant Man, The",Drama,1980,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2321,Pleasantville,Comedy|Drama|Fantasy,1998,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+2324,Life Is Beautiful (La Vita è bella),Comedy|Drama|Romance|War,1997,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0
+2329,American History X,Crime|Drama,1998,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+2336,Elizabeth,Drama,1998,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2352,"Big Chill, The",Comedy|Drama,1983,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+2353,Enemy of the State,Action|Thriller,1998,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2355,"Bug's Life, A",Adventure|Animation|Children|Comedy,1998,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2366,King Kong,Action|Adventure|Fantasy|Horror,1933,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+2371,Fletch,Comedy|Crime|Mystery,1985,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+2391,"Simple Plan, A",Crime|Drama|Thriller,1998,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+2393,Star Trek: Insurrection,Action|Drama|Romance|Sci-Fi,1998,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+2394,"Prince of Egypt, The",Animation|Musical,1998,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2395,Rushmore,Comedy|Drama,1998,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+2396,Shakespeare in Love,Comedy|Drama|Romance,1998,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+2402,Rambo: First Blood Part II,Action|Adventure|Thriller,1985,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2405,"Jewel of the Nile, The",Action|Adventure|Comedy|Romance,1985,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+2406,Romancing the Stone,Action|Adventure|Comedy|Romance,1984,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+2407,Cocoon,Comedy|Sci-Fi,1985,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+2413,Clue,Comedy|Crime|Mystery|Thriller,1985,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,0,0
+2420,"Karate Kid, The",Drama,1984,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2423,Christmas Vacation (National Lampoon's Christmas Vacation),Comedy,1989,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2424,You've Got Mail,Comedy|Romance,1998,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+2427,"Thin Red Line, The",Action|Drama|War,1998,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+2428,"Faculty, The",Horror|Sci-Fi,1998,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+2455,"Fly, The",Drama|Horror|Sci-Fi|Thriller,1986,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0
+2470,Crocodile Dundee,Adventure|Comedy,1986,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2478,¡Three Amigos!,Comedy|Western,1986,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+2485,She's All That,Comedy|Romance,1999,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+2490,Payback,Action|Thriller,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2501,October Sky,Drama,1999,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2502,Office Space,Comedy|Crime,1999,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+2529,Planet of the Apes,Action|Drama|Sci-Fi,1968,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+2539,Analyze This,Comedy,1999,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2541,Cruel Intentions,Drama,1999,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2542,"Lock, Stock & Two Smoking Barrels",Comedy|Crime|Thriller,1998,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+2571,"Matrix, The",Action|Sci-Fi|Thriller,1999,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2572,10 Things I Hate About You,Comedy|Romance,1999,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+2580,Go,Comedy|Crime,1999,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+2599,Election,Comedy,1999,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2605,Entrapment,Crime|Thriller,1999,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+2616,Dick Tracy,Action|Crime,1990,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2617,"Mummy, The",Action|Adventure|Comedy|Fantasy|Horror|Thriller,1999,1,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0
+2628,Star Wars: Episode I - The Phantom Menace,Action|Adventure|Sci-Fi,1999,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2640,Superman,Action|Adventure|Sci-Fi,1978,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2641,Superman II,Action|Sci-Fi,1980,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2657,"Rocky Horror Picture Show, The",Comedy|Horror|Musical|Sci-Fi,1975,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0
+2671,Notting Hill,Comedy|Romance,1999,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+2683,Austin Powers: The Spy Who Shagged Me,Action|Adventure|Comedy,1999,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2687,Tarzan,Adventure|Animation|Children|Drama,1999,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2692,Run Lola Run (Lola rennt),Action|Crime,1998,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2694,Big Daddy,Comedy,1999,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2699,Arachnophobia,Comedy|Horror,1990,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+2700,"South Park: Bigger, Longer and Uncut",Animation|Comedy|Musical,1999,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+2701,Wild Wild West,Action|Comedy|Sci-Fi|Western,1999,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1
+2706,American Pie,Comedy|Romance,1999,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+2707,Arlington Road,Thriller,1999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2710,"Blair Witch Project, The",Drama|Horror|Thriller,1999,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0
+2712,Eyes Wide Shut,Drama|Mystery|Thriller,1999,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+2716,Ghostbusters (a.k.a. Ghost Busters),Action|Comedy|Sci-Fi,1984,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+2717,Ghostbusters II,Comedy|Fantasy|Sci-Fi,1989,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+2722,Deep Blue Sea,Action|Horror|Sci-Fi|Thriller,1999,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0
+2723,Mystery Men,Action|Comedy|Fantasy,1999,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+2724,Runaway Bride,Comedy|Romance,1999,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+2746,Little Shop of Horrors,Comedy|Horror|Musical,1986,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+2761,"Iron Giant, The",Adventure|Animation|Children|Drama|Sci-Fi,1999,0,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+2762,"Sixth Sense, The",Drama|Horror|Mystery,1999,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+2763,"Thomas Crown Affair, The",Action|Mystery,1999,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2770,Bowfinger,Comedy,1999,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2788,Monty Python's And Now for Something Completely Different,Comedy,1971,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2791,Airplane!,Comedy,1980,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2795,National Lampoon's Vacation,Comedy,1983,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2797,Big,Comedy|Drama|Fantasy|Romance,1988,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0
+2804,"Christmas Story, A",Children|Comedy,1983,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2826,"13th Warrior, The",Action|Adventure|Fantasy,1999,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2857,Yellow Submarine,Adventure|Animation|Comedy|Fantasy|Musical,1968,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+2858,American Beauty,Drama|Romance,1999,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+2871,Deliverance,Adventure|Drama|Thriller,1972,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+2872,Excalibur,Adventure|Fantasy,1981,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2881,Double Jeopardy,Action|Crime|Drama|Thriller,1999,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+2890,Three Kings,Action|Adventure|Comedy|Drama|War,1999,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+2915,Risky Business,Comedy,1983,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2916,Total Recall,Action|Adventure|Sci-Fi|Thriller,1990,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2918,Ferris Bueller's Day Off,Comedy,1986,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2944,"Dirty Dozen, The",Action|Drama|War,1967,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+2947,Goldfinger,Action|Adventure|Thriller,1964,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2948,From Russia with Love,Action|Adventure|Thriller,1963,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2949,Dr. No,Action|Adventure|Thriller,1962,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2951,"Fistful of Dollars, A (Per un pugno di dollari)",Action|Western,1964,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2953,Home Alone 2: Lost in New York,Children|Comedy,1992,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2959,Fight Club,Action|Crime|Drama|Thriller,1999,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+2968,Time Bandits,Adventure|Comedy|Fantasy|Sci-Fi,1981,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+2985,RoboCop,Action|Crime|Drama|Sci-Fi|Thriller,1987,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0
+2987,Who Framed Roger Rabbit?,Adventure|Animation|Children|Comedy|Crime|Fantasy|Mystery,1988,0,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0
+2997,Being John Malkovich,Comedy|Drama|Fantasy,1999,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+3000,Princess Mononoke (Mononoke-hime),Action|Adventure|Animation|Drama|Fantasy,1997,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+3006,"Insider, The",Drama|Thriller,1999,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+3020,Falling Down,Action|Drama,1993,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+3033,Spaceballs,Comedy|Sci-Fi,1987,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+3039,Trading Places,Comedy,1983,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3052,Dogma,Adventure|Comedy|Fantasy,1999,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+3072,Moonstruck,Comedy|Romance,1987,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+3081,Sleepy Hollow,Fantasy|Horror|Mystery|Romance,1999,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0
+3082,"World Is Not Enough, The",Action|Adventure|Thriller,1999,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+3100,"River Runs Through It, A",Drama,1992,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+3101,Fatal Attraction,Drama|Thriller,1987,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+3105,Awakenings,Drama|Mystery,1990,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+3107,Backdraft,Action|Drama,1991,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+3108,"Fisher King, The",Comedy|Drama|Fantasy|Romance,1991,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0
+3113,End of Days,Action|Fantasy|Horror|Mystery|Thriller,1999,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0
+3114,Toy Story 2,Adventure|Animation|Children|Comedy|Fantasy,1999,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+3147,"Green Mile, The",Crime|Drama,1999,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+3160,Magnolia,Drama,1999,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+3168,Easy Rider,Adventure|Drama,1969,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+3174,Man on the Moon,Comedy|Drama,1999,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+3175,Galaxy Quest,Adventure|Comedy|Sci-Fi,1999,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+3176,"Talented Mr. Ripley, The",Drama|Mystery|Thriller,1999,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+3210,Fast Times at Ridgemont High,Comedy|Drama|Romance,1982,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+3247,Sister Act,Comedy|Crime,1992,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+3252,Scent of a Woman,Drama,1992,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+3253,Wayne's World,Comedy,1992,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3255,"League of Their Own, A",Comedy|Drama,1992,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+3256,Patriot Games,Action|Crime|Drama|Thriller,1992,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+3257,"Bodyguard, The",Drama|Romance|Thriller,1992,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0
+3273,Scream 3,Comedy|Horror|Mystery|Thriller,2000,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0
+3275,"Boondock Saints, The",Action|Crime|Drama|Thriller,2000,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+3300,Pitch Black,Horror|Sci-Fi|Thriller,2000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0
+3301,"Whole Nine Yards, The",Comedy|Crime,2000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+3354,Mission to Mars,Sci-Fi,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+3361,Bull Durham,Comedy|Drama|Romance,1988,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+3363,American Graffiti,Comedy|Drama,1973,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+3386,JFK,Drama|Mystery|Thriller,1991,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+3396,"Muppet Movie, The",Adventure|Children|Comedy|Musical,1979,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+3408,Erin Brockovich,Drama,2000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+3418,Thelma & Louise,Adventure|Crime|Drama,1991,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+3421,Animal House,Comedy,1978,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3424,Do the Right Thing,Drama,1989,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+3448,"Good Morning, Vietnam",Comedy|Drama|War,1987,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+3450,Grumpy Old Men,Comedy,1993,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3471,Close Encounters of the Third Kind,Adventure|Drama|Sci-Fi,1977,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+3481,High Fidelity,Comedy|Drama|Romance,2000,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+3489,Hook,Adventure|Comedy|Fantasy,1991,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+3499,Misery,Drama|Horror|Thriller,1990,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0
+3510,Frequency,Drama|Thriller,2000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+3527,Predator,Action|Sci-Fi|Thriller,1987,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+3535,American Psycho,Crime|Horror|Mystery|Thriller,2000,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+3552,Caddyshack,Comedy,1980,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3555,U-571,Action|Thriller|War,2000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+3578,Gladiator,Action|Adventure|Drama,2000,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+3617,Road Trip,Comedy,2000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3623,Mission: Impossible II,Action|Adventure|Thriller,2000,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+3624,Shanghai Noon,Action|Adventure|Comedy|Western,2000,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+3671,Blazing Saddles,Comedy|Western,1974,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+3683,Blood Simple,Crime|Drama|Film-Noir,1984,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+3702,Mad Max,Action|Adventure|Sci-Fi,1979,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+3703,"Road Warrior, The (Mad Max 2)",Action|Adventure|Sci-Fi,1981,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+3717,Gone in 60 Seconds,Action|Crime,2000,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+3740,Big Trouble in Little China,Action|Adventure|Comedy|Fantasy,1986,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+3745,Titan A.E.,Action|Adventure|Animation|Children|Sci-Fi,2000,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+3751,Chicken Run,Animation|Children|Comedy,2000,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3752,"Me, Myself & Irene",Adventure|Comedy,2000,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3753,"Patriot, The",Action|Drama|War,2000,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+3755,"Perfect Storm, The",Drama|Thriller,2000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+3785,Scary Movie,Comedy|Horror,2000,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+3793,X-Men,Action|Adventure|Sci-Fi,2000,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+3809,What About Bob?,Comedy,1991,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3827,Space Cowboys,Action|Adventure|Comedy|Sci-Fi,2000,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+3863,"Cell, The",Drama|Horror|Thriller,2000,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0
+3868,"Naked Gun: From the Files of Police Squad!, The",Action|Comedy|Crime|Romance,1988,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+3897,Almost Famous,Drama,2000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+3911,Best in Show,Comedy,2000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3916,Remember the Titans,Drama,2000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+3948,Meet the Parents,Comedy,2000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3949,Requiem for a Dream,Drama,2000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+3967,Billy Elliot,Drama,2000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+3977,Charlie's Angels,Action|Comedy,2000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3984,Diamonds Are Forever,Action|Adventure|Thriller,1971,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+3994,Unbreakable,Drama|Sci-Fi,2000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+3996,"Crouching Tiger, Hidden Dragon (Wo hu cang long)",Action|Drama|Romance,2000,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+4002,"Planes, Trains & Automobiles",Comedy,1987,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+4011,Snatch,Comedy|Crime|Thriller,2000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+4014,Chocolat,Drama|Romance,2000,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+4018,What Women Want,Comedy|Romance,2000,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+4019,Finding Forrester,Drama,2000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+4022,Cast Away,Drama,2000,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+4025,Miss Congeniality,Comedy|Crime,2000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+4027,"O Brother, Where Art Thou?",Adventure|Comedy|Crime,2000,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+4034,Traffic,Crime|Drama|Thriller,2000,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+4085,Beverly Hills Cop,Action|Comedy|Crime|Drama,1984,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+4128,"Lost Boys, The",Comedy|Horror|Thriller,1987,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0
+4148,Hannibal,Horror|Thriller,2001,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+4223,Enemy at the Gates,Drama|War,2001,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+4226,Memento,Mystery|Thriller,2000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+4239,Blow,Crime|Drama,2001,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+4246,Bridget Jones's Diary,Comedy|Drama|Romance,2001,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+4262,Scarface,Action|Crime|Drama,1983,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+4270,"Mummy Returns, The",Action|Adventure|Comedy|Thriller,2001,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+4299,"Knight's Tale, A",Action|Comedy|Romance,2001,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+4306,Shrek,Adventure|Animation|Children|Comedy|Fantasy|Romance,2001,0,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+4308,Moulin Rouge,Drama|Musical|Romance,2001,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+4310,Pearl Harbor,Action|Drama|Romance|War,2001,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0
+4321,City Slickers,Comedy|Western,1991,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+4344,Swordfish,Action|Crime|Drama,2001,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+4367,Lara Croft: Tomb Raider,Action|Adventure,2001,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4369,"Fast and the Furious, The",Action|Crime|Thriller,2001,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+4370,A.I. Artificial Intelligence,Adventure|Drama|Sci-Fi,2001,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+4446,Final Fantasy: The Spirits Within,Adventure|Animation|Fantasy|Sci-Fi,2001,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+4447,Legally Blonde,Comedy|Romance,2001,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+4571,Bill & Ted's Excellent Adventure,Adventure|Comedy|Sci-Fi,1989,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+4638,Jurassic Park III,Action|Adventure|Sci-Fi|Thriller,2001,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+4643,Planet of the Apes,Action|Adventure|Drama|Sci-Fi,2001,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+4701,Rush Hour 2,Action|Comedy,2001,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+4718,American Pie 2,Comedy,2001,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+4720,"Others, The",Drama|Horror|Mystery|Thriller,2001,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0
+4734,Jay and Silent Bob Strike Back,Adventure|Comedy,2001,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+4776,Training Day,Crime|Drama|Thriller,2001,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+4816,Zoolander,Comedy,2001,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+4848,Mulholland Drive,Crime|Drama|Film-Noir|Mystery|Thriller,2001,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,1,0,0
+4855,Dirty Harry,Action|Crime|Thriller,1971,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+4874,K-PAX,Drama|Fantasy|Mystery|Sci-Fi,2001,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0
+4878,Donnie Darko,Drama|Mystery|Sci-Fi|Thriller,2001,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0
+4886,"Monsters, Inc.",Adventure|Animation|Children|Comedy|Fantasy,2001,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone),Adventure|Children|Fantasy,2001,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4901,Spy Game,Action|Crime|Drama|Thriller,2001,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+4963,Ocean's Eleven,Crime|Thriller,2001,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le)",Comedy|Romance,2001,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+4975,Vanilla Sky,Mystery|Romance|Sci-Fi|Thriller,2001,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0
+4979,"Royal Tenenbaums, The",Comedy|Drama,2001,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+4993,"Lord of the Rings: The Fellowship of the Ring, The",Adventure|Fantasy,2001,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4995,"Beautiful Mind, A",Drama|Romance,2001,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+5010,Black Hawk Down,Action|Drama|War,2001,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+5015,Monster's Ball,Drama|Romance,2001,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+5060,M*A*S*H (a.k.a. MASH),Comedy|Drama|War,1970,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+5218,Ice Age,Adventure|Animation|Children|Comedy,2002,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5254,Blade II,Action|Horror|Thriller,2002,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+5299,My Big Fat Greek Wedding,Comedy|Romance,2002,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+5349,Spider-Man,Action|Adventure|Sci-Fi|Thriller,2002,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+5377,About a Boy,Comedy|Drama|Romance,2002,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+5378,Star Wars: Episode II - Attack of the Clones,Action|Adventure|Sci-Fi,2002,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+5388,Insomnia,Action|Crime|Drama|Mystery|Thriller,2002,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0
+5418,"Bourne Identity, The",Action|Mystery|Thriller,2002,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+5445,Minority Report,Action|Crime|Mystery|Sci-Fi|Thriller,2002,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0
+5459,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2),Action|Comedy|Sci-Fi,2002,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+5464,Road to Perdition,Crime|Drama,2002,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+5481,Austin Powers in Goldmember,Comedy,2002,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5502,Signs,Horror|Sci-Fi|Thriller,2002,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0
+5618,Spirited Away (Sen to Chihiro no kamikakushi),Adventure|Animation|Fantasy,2001,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5669,Bowling for Columbine,Documentary,2002,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5673,Punch-Drunk Love,Comedy|Drama|Romance,2002,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+5679,"Ring, The",Horror|Mystery|Thriller,2002,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0
+5816,Harry Potter and the Chamber of Secrets,Adventure|Fantasy,2002,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5902,Adaptation,Comedy|Drama|Romance,2002,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+5903,Equilibrium,Action|Sci-Fi|Thriller,2002,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+5952,"Lord of the Rings: The Two Towers, The",Adventure|Fantasy,2002,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5956,Gangs of New York,Crime|Drama,2002,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+5989,Catch Me If You Can,Crime|Drama,2002,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+5991,Chicago,Comedy|Crime|Drama|Musical,2002,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0
+5995,"Pianist, The",Drama|War,2002,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+6016,City of God (Cidade de Deus),Action|Adventure|Crime|Drama|Thriller,2002,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+6157,Daredevil,Action|Crime,2003,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+6188,Old School,Comedy,2003,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6218,Bend It Like Beckham,Comedy|Drama|Romance,2002,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+6333,X2: X-Men United,Action|Adventure|Sci-Fi|Thriller,2003,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+6365,"Matrix Reloaded, The",Action|Adventure|Sci-Fi|Thriller,2003,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+6373,Bruce Almighty,Comedy|Drama|Fantasy|Romance,2003,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0
+6377,Finding Nemo,Adventure|Animation|Children|Comedy,2003,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6378,"Italian Job, The",Action|Crime,2003,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+6502,28 Days Later,Action|Horror|Sci-Fi,2002,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+6534,Hulk,Action|Adventure|Sci-Fi,2003,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+6537,Terminator 3: Rise of the Machines,Action|Adventure|Sci-Fi,2003,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+6539,Pirates of the Caribbean: The Curse of the Black Pearl,Action|Adventure|Comedy|Fantasy,2003,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+6711,Lost in Translation,Comedy|Drama|Romance,2003,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+6807,Monty Python's The Meaning of Life,Comedy,1983,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6863,School of Rock,Comedy|Musical,2003,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+6870,Mystic River,Crime|Drama|Mystery,2003,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+6874,Kill Bill: Vol. 1,Action|Crime|Thriller,2003,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+6934,"Matrix Revolutions, The",Action|Adventure|Sci-Fi|Thriller,2003,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+6942,Love Actually,Comedy|Drama|Romance,2003,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+6947,Master and Commander: The Far Side of the World,Adventure|Drama|War,2003,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+6957,Bad Santa,Comedy|Crime,2003,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+7022,Battle Royale (Batoru rowaiaru),Action|Drama|Horror|Thriller,2000,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0
+7090,Hero (Ying xiong),Action|Adventure|Drama,2002,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+7143,"Last Samurai, The",Action|Adventure|Drama|War,2003,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+7147,Big Fish,Drama|Fantasy|Romance,2003,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+7153,"Lord of the Rings: The Return of the King, The",Action|Adventure|Drama|Fantasy,2003,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+7254,The Butterfly Effect,Drama|Sci-Fi|Thriller,2004,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+7293,50 First Dates,Comedy|Romance,2004,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+7361,Eternal Sunshine of the Spotless Mind,Drama|Romance|Sci-Fi,2004,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+7373,Hellboy,Action|Adventure|Fantasy|Horror,2004,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+7438,Kill Bill: Vol. 2,Action|Drama|Thriller,2004,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+7445,Man on Fire,Action|Crime|Drama|Mystery|Thriller,2004,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0
+7458,Troy,Action|Adventure|Drama|War,2004,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+8360,Shrek 2,Adventure|Animation|Children|Comedy|Musical|Romance,2004,0,1,1,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+8368,Harry Potter and the Prisoner of Azkaban,Adventure|Fantasy,2004,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8464,Super Size Me,Comedy|Documentary|Drama,2004,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+8528,Dodgeball: A True Underdog Story,Comedy,2004,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+8622,Fahrenheit 9/11,Documentary,2004,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+8636,Spider-Man 2,Action|Adventure|Sci-Fi,2004,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+8641,Anchorman: The Legend of Ron Burgundy,Comedy,2004,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+8644,"I, Robot",Action|Adventure|Sci-Fi|Thriller,2004,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+8665,"Bourne Supremacy, The",Action|Crime|Thriller,2004,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+8784,Garden State,Comedy|Drama|Romance,2004,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+8798,Collateral,Action|Crime|Drama|Thriller,2004,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+8874,Shaun of the Dead,Comedy|Horror,2004,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+8949,Sideways,Comedy|Drama|Romance,2004,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+8961,"Incredibles, The",Action|Adventure|Animation|Children|Comedy,2004,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+8984,Ocean's Twelve,Action|Comedy|Crime|Thriller,2004,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+27773,Old Boy,Mystery|Thriller,2003,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+30707,Million Dollar Baby,Drama,2004,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+30749,Hotel Rwanda,Drama|War,2004,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+30793,Charlie and the Chocolate Factory,Adventure|Children|Comedy|Fantasy,2005,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+30810,"Life Aquatic with Steve Zissou, The",Adventure|Comedy|Fantasy,2004,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+31658,Howl's Moving Castle (Hauru no ugoku shiro),Adventure|Animation|Fantasy|Romance,2004,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+32587,Sin City,Action|Crime|Film-Noir|Mystery|Thriller,2005,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0
+33166,Crash,Crime|Drama,2004,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+33493,Star Wars: Episode III - Revenge of the Sith,Action|Adventure|Sci-Fi,2005,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+33679,Mr. & Mrs. Smith,Action|Adventure|Comedy|Romance,2005,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+33794,Batman Begins,Action|Crime,2005,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+34048,War of the Worlds,Action|Adventure|Sci-Fi|Thriller,2005,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+34162,Wedding Crashers,Comedy|Romance,2005,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+34405,Serenity,Action|Adventure|Sci-Fi,2005,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+35836,"40-Year-Old Virgin, The",Comedy|Romance,2005,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+36529,Lord of War,Action|Crime|Drama|Thriller|War,2005,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0
+40815,Harry Potter and the Goblet of Fire,Adventure|Fantasy|Thriller,2005,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+40819,Walk the Line,Drama|Musical|Romance,2005,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+41566,"Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The",Adventure|Children|Fantasy,2005,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+44191,V for Vendetta,Action|Sci-Fi|Thriller,2006,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+44195,Thank You for Smoking,Comedy|Drama,2006,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+44199,Inside Man,Crime|Drama|Thriller,2006,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+44555,"Lives of Others, The (Das leben der Anderen)",Drama|Romance|Thriller,2006,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0
+44665,Lucky Number Slevin,Crime|Drama|Mystery,2006,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+45447,"Da Vinci Code, The",Drama|Mystery|Thriller,2006,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+45499,X-Men: The Last Stand,Action|Sci-Fi|Thriller,2006,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+45722,Pirates of the Caribbean: Dead Man's Chest,Action|Adventure|Fantasy,2006,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+46578,Little Miss Sunshine,Adventure|Comedy|Drama,2006,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+46976,Stranger than Fiction,Comedy|Drama|Fantasy|Romance,2006,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0
+47610,"Illusionist, The",Drama|Fantasy|Mystery|Romance,2006,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0
+48385,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,Comedy,2006,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+48394,"Pan's Labyrinth (Laberinto del fauno, El)",Drama|Fantasy|Thriller,2006,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+48516,"Departed, The",Crime|Drama|Thriller,2006,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+48774,Children of Men,Action|Adventure|Drama|Sci-Fi|Thriller,2006,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+48780,"Prestige, The",Drama|Mystery|Sci-Fi|Thriller,2006,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0
+49272,Casino Royale,Action|Adventure|Thriller,2006,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+49530,Blood Diamond,Action|Adventure|Crime|Drama|Thriller|War,2006,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0
+50872,Ratatouille,Animation|Children|Drama,2007,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+51255,Hot Fuzz,Action|Comedy|Crime|Mystery,2007,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+51662,300,Action|Fantasy|War,2007,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+52973,Knocked Up,Comedy|Drama|Romance,2007,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+53125,Pirates of the Caribbean: At World's End,Action|Adventure|Comedy|Fantasy,2007,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+53972,Live Free or Die Hard,Action|Adventure|Crime|Thriller,2007,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+53996,Transformers,Action|Sci-Fi|Thriller,2007,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+54001,Harry Potter and the Order of the Phoenix,Adventure|Drama|Fantasy,2007,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+54272,"Simpsons Movie, The",Animation|Comedy,2007,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+54286,"Bourne Ultimatum, The",Action|Crime|Thriller,2007,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+54503,Superbad,Comedy,2007,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+54997,3:10 to Yuma,Action|Crime|Drama|Western,2007,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+55247,Into the Wild,Action|Adventure|Drama,2007,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+55765,American Gangster,Crime|Drama|Thriller,2007,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+55820,No Country for Old Men,Crime|Drama,2007,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+56174,I Am Legend,Action|Horror|Sci-Fi|Thriller,2007,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0
+56367,Juno,Comedy|Drama|Romance,2007,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+56782,There Will Be Blood,Drama|Western,2007,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+57669,In Bruges,Comedy|Crime|Drama|Thriller,2008,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0
+58559,"Dark Knight, The",Action|Crime|Drama,2008,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+59315,Iron Man,Action|Adventure|Sci-Fi,2008,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+59369,Taken,Action|Crime|Drama|Thriller,2008,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+59784,Kung Fu Panda,Action|Animation|Children|Comedy,2008,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+60069,WALL·E,Adventure|Animation|Children|Romance|Sci-Fi,2008,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+60684,Watchmen,Action|Drama|Mystery|Sci-Fi|Thriller,2009,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0
+63082,Slumdog Millionaire,Crime|Drama|Romance,2008,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0
+64614,Gran Torino,Crime|Drama,2008,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+64957,"Curious Case of Benjamin Button, The",Drama|Fantasy|Mystery|Romance,2008,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0
+68157,Inglourious Basterds,Action|Drama|War,2009,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+68237,Moon,Drama|Mystery|Sci-Fi|Thriller,2009,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0
+68358,Star Trek,Action|Adventure|Sci-Fi,2009,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+68954,Up,Adventure|Animation|Children|Drama,2009,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+69122,"Hangover, The",Comedy|Crime,2009,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+69481,"Hurt Locker, The",Action|Drama|Thriller|War,2008,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+69757,(500) Days of Summer,Comedy|Drama|Romance,2009,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+69844,Harry Potter and the Half-Blood Prince,Adventure|Fantasy|Mystery|Romance,2009,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0
+70286,District 9,Mystery|Sci-Fi|Thriller,2009,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+71535,Zombieland,Action|Comedy|Horror,2009,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+72998,Avatar,Action|Adventure|Sci-Fi,2009,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+73017,Sherlock Holmes,Action|Crime|Mystery|Thriller,2009,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+74458,Shutter Island,Drama|Mystery|Thriller,2010,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+76093,How to Train Your Dragon,Adventure|Animation|Children|Fantasy,2010,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+77561,Iron Man 2,Action|Adventure|Sci-Fi|Thriller,2010,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+78499,Toy Story 3,Adventure|Animation|Children|Comedy|Fantasy,2010,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+79132,Inception,Action|Crime|Drama|Mystery|Sci-Fi|Thriller,2010,1,0,0,0,0,1,0,1,0,0,0,0,1,0,1,1,0,0
+81834,Harry Potter and the Deathly Hallows: Part 1,Action|Adventure|Fantasy,2010,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+81845,"King's Speech, The",Drama,2010,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+89745,"Avengers, The",Action|Adventure|Sci-Fi,2012,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+91529,"Dark Knight Rises, The",Action|Adventure|Crime,2012,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+99114,Django Unchained,Action|Drama|Western,2012,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+109374,"Grand Budapest Hotel, The",Comedy|Drama,2014,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+109487,Interstellar,Sci-Fi,2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+112852,Guardians of the Galaxy,Action|Adventure|Sci-Fi,2014,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
